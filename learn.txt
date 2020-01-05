@@ -2,3 +2,4 @@ Git
 Django
 React
 Angular
+JavaScript
